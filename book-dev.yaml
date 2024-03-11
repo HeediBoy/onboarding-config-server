@@ -2,5 +2,5 @@ message: Hello, World from dev
 openapi:
   service:
     title: Book Microservice
-    version: 1.0
+    version: 1.0.0
     url: http://localhost:8081
