@@ -1,1 +1,6 @@
 message: Hello, World from dev
+openapi:
+  service:
+    title: book
+    version: 1.0
+    url: http://localhost:8081
